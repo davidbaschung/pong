@@ -1,7 +1,7 @@
 # pong
 > Pong game for two players on one computer
 
-<h3>What i learned</h3>
+<h3>What I learned</h3>
 
 <ul>
   <li>Create a graphical interface with a canvas in Python</li>
