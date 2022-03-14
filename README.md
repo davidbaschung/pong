@@ -4,7 +4,7 @@
 <h3>What i learned</h3>
 
 <ul>
-  <li>Create a complete graphical interface with a canvas in Python</li>
+  <li>Create a graphical interface with a canvas in Python</li>
   <li>Inputs management</li>
 </ul>
 
